@@ -3,7 +3,11 @@ A scalable box for mounting germicidal UVC lights to clean and maintain equipmen
 ---
 *Note: This is not a medical device. While we have taken every effort to validate the principles behind this system, and use certified UV-C bulbs producing light at 254 nm, this is still a device that was kludged together by parts we already had on hand. We currently have no means to test its efficacy. For deployment in a medical environment, consider this an option of absolute last resort.*
 
+![](https://github.com/SouthernFriedScientist/Scalable-UVC-Box/blob/master/IMG_20200330_171309.jpg)
+
 Initially designed to help our local library sanitize books during the Covid-19 outbreak, this box provides a simple, scalable, system for building an ultraviolet germicidal chamber. It can be built quickly with commonly available components that can be found at most big box home improvement stores. In its current form, it has absolutely no safety features. Exposure to UV-C light can cause burns, damage your vision, or potentially blind you. Do not open the chamber with the light on without using proper protective equipment. 
+
+![](https://github.com/SouthernFriedScientist/Scalable-UVC-Box/blob/master/IMG_20200330_171325.jpg)
 
 ### Bill of Materials
 - 1/4" Plywood
@@ -29,9 +33,13 @@ Create a light seal by glueing more small strips of plywood around the door of t
 
 ### Step 3: Electronics
 
+![](https://github.com/SouthernFriedScientist/Scalable-UVC-Box/blob/master/IMG_20200330_171406.jpg)
+
 Decide where you want the bulbs to be positioned within the box and mount the G23 sockets. Use the wiring diagram on the ballast to wire up the sockets. These sockets use a friction connection so you can get good contact by inserting the stripped, bare solid core wire into the receptacles. Mount the ballast on the back of the box. 
 
 Connect a ground wire to the case of you ballast. Mount the power switch and then connect the mains using whichever connectors you have available, routing at least on end through the power switch. 
+
+![](https://github.com/SouthernFriedScientist/Scalable-UVC-Box/blob/master/IMG_20200330_171350.jpg)
 
 ### Step 4: Seal and test
 
