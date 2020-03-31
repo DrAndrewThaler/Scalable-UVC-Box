@@ -7,6 +7,7 @@ Initially designed to help our local library sanitize books during the Covid-19 
 
 ### Bill of Materials
 - 1/4" Plywood
+- 1/4" Wooden dowel
 - M3 and M4 nuts and bolts
 - Power switch
 - Grounded power supply cable (https://amzn.to/3bENLSQ)
@@ -20,7 +21,7 @@ Initially designed to help our local library sanitize books during the Covid-19 
 
 ### Step 1: Assemble the Box
 
-Cut the plywood to your deisred size, leaving an openning on one side cut into the face of the plywood. Create a light seal by glueing small strips of plywood to the edges around the opening. Decide which side of each panel will be the inside and cover the entire surface with reflective tape. Join the corners using the 3D printed corner braces to align drill holes. As you lock down each corner, seal all joints with reflective foil tape to prevent light leaks. 
+Cut the plywood to your deisred size, leaving an openning on one side cut into the face of the plywood. Create a light seal by glueing small strips of plywood to the edges around the opening. Decide which side of each panel will be the inside and cover the entire surface with reflective tape. Join the corners using the 3D printed corner braces to align drill holes. As you lock down each corner, seal all joints with reflective foil tape to prevent light leaks. Mount the wooden dowel for hanging using the 3D printed parts. 
 
 ### Step 2: Mount the door
 
