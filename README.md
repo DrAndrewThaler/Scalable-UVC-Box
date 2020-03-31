@@ -1,7 +1,7 @@
 # Scalable UVC Box
 A scalable box for mounting germicidal UVC lights to clean and maintain equipment
 ---
-Note: This is not a medical device. While we have taken every effort to validate the principles behind this system, and use certified UV-C bulbs producing light at 254 nm, this is still a device that was kludged together by parts we already had on hand. We currently have no means to test its efficacy. For deployment in a medical environment, consider this an option of absolute last resort. 
+*Note: This is not a medical device. While we have taken every effort to validate the principles behind this system, and use certified UV-C bulbs producing light at 254 nm, this is still a device that was kludged together by parts we already had on hand. We currently have no means to test its efficacy. For deployment in a medical environment, consider this an option of absolute last resort.*
 
 Initially designed to help our local library sanitize books during the Covid-19 outbreak, this box provides a simple, scalable, system for building an ultraviolet germicidal chamber. It can be built quickly with commonly available components that can be found at most big box home improvement stores. In its current form, it has absolutely no safety features. Exposure to UV-C light can cause burns, damage your vision, or potentially blind you. Do not open the chamber with the light on without using proper protective equipment. 
 
